@@ -1,0 +1,6 @@
+This is fixed script for Gnome 3 app Jupiter, where notify-send kept stuck in panel after change of power managment plan.
+
+replace your notify file and that's all
+
+Where is the file?
+/usr/lib/jupiter/scripts/notify
